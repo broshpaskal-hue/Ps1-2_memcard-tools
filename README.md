@@ -1,6 +1,7 @@
 # PS2 Card Manager (mymc_web)
 [Try it now](https://bad-al.github.io/mymc_web/)
-![dart mymc web welcome](HomePage.png)
+
+[![Alt Text](HomePage.png)](https://bad-al.github.io/mymc_web/)
 A retro-styled web interface for managing PlayStation 2 memory card images (`.ps2`) for PCSX2. This tool allows you to easily browse, import, export, and transfer saves between cards directly in your browser.
 
 mymc was originally ported to [dart_mymc](https://github.com/BAD-AL/dart_mymc) for use in the [NFL2K5Tool_web](https://bad-al.github.io/nfl2k5tool_web/) gamesave editor and I thought it would be cool to add a web interface for easier card management.
